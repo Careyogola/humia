@@ -12,19 +12,22 @@ const Footer = () => {
                     <a href="#">Contact us</a>
                     </div>
                     <div className="flex flex-col mb-4">
+              
                     <h2 className="text-white uppercase">useful links</h2>
+                   
+                    
                     <a href="#">Track your order</a>
                     <a href="#">Shipping and Delivery</a>
-                    <a href="#">Contact us</a>
-                    <a href="#">Chat with us</a>
-                    <a href="#">Help center</a>
-                    <a href="#">Contact us</a>
-                    <a href="#">Chat with us</a>
-                    <a href="#">Help center</a>
-                    <a href="#">Contact us</a>
-                    <a href="#">Chat with us</a>
-                    <a href="#">Help center</a>
-
+                    <a href="#">Pick-up stations</a>
+                    <a href="#">Return policy</a>
+                    <a href="#">How to order?</a>
+                    <a href="#">Dispute resolution policy</a>
+                    <a href="#">Corporate and bulk purchase</a>
+                    <a href="#">Advertise with jumia</a>
+                    <a href="#">Report a product</a>
+                    <a href="#">Humia payment information guidlines</a>
+                    <a href="#">Black friday</a>
+                   
                     </div>
                 </div>
                 <div className="flex flex-col">
