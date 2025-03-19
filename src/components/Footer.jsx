@@ -56,7 +56,7 @@ const Footer = () => {
                     <a href="#">Humia global</a>
                 </div>
                 <div className="flex flex-col">
-                    <h2 className="mb-4 uppercase">Make money with jumia</h2>
+                    <h2 className="mb-4 uppercase">Make money with Humia</h2>
                     <a href="#">sell on humia</a>
                     <a href="#">Vendor hub</a>
                     <a href="#">Become sales consultant</a>
@@ -64,7 +64,7 @@ const Footer = () => {
                    
                 </div>
                 <div className="flex flex-col">
-                    <h1 className="mb-4 uppercase">Jumia international</h1>
+                    <h1 className="mb-4 uppercase">Humia international</h1>
                     <div className="flex flex-row">
                         <div className="flex flex-col text-gray-100">
                             <a href="#">Algeria</a>
@@ -111,12 +111,19 @@ const Footer = () => {
             </div>
             <div className="flex flex-row bg-inherit justify-evenly">
                 <div className="flex flex-col">
-                    <a href="#">Items</a>
-                    <a href="#">Items</a>
-                    <a href="#">Items</a>
-                    <a href="#">Items</a>
-                    <a href="#">Items</a>
-                    <a href="#">Items</a>
+                    <a href="#">Samsung</a>
+                    <a href="#">Iphone</a>
+                    <a href="#">Google Pixel</a>
+                    <a href="#">LG</a>
+                    <a href="#">One Plus</a>
+                    <a href="#">Huawei</a>
+                </div>
+                <div className="flex flex-col">
+                <a href="#">Adidas</a>
+                    <a href="#">Nike</a>
+                    <a href="#">Xiaomi</a>
+                    <a href="#">Techno</a>
+                    <a href="#">Itel</a>
                 </div>
                 <div className="flex flex-col">
                 <a href="#">Items</a>
@@ -154,14 +161,7 @@ const Footer = () => {
                     <a href="#">Items</a>
                 </div>
                 <div className="flex flex-col">
-                <a href="#">Items</a>
                     <a href="#">Items</a>
-                    <a href="#">Items</a>
-                    <a href="#">Items</a>
-                    <a href="#">Items</a>
-                </div>
-                <div className="flex flex-col">
-                <a href="#">Items</a>
                     <a href="#">Items</a>
                     <a href="#">Items</a>
                     <a href="#">Items</a>
