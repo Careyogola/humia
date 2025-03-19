@@ -1,5 +1,17 @@
 import React from "react";
-import { FaFacebook } from "react-icons/fa";
+import { 
+    FaFacebook ,
+     FaTwitter, 
+     FaLinkedin,
+      FaInstagram, 
+      FaYoutube, 
+      FaTiktok, 
+      FaCcPaypal,
+      FaCcMastercard,
+      FaCcVisa ,
+      FaCcApplePay,
+      FaCcAmazonPay
+    } from "react-icons/fa";
 import { BiLogoInstagramAlt } from "react-icons/bi";
 
 const Footer = () => {
@@ -31,24 +43,24 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="flex flex-col">
-                    <h2 className="mb-4 uppercase">About jumia</h2>
+                    <h2 className="mb-4 uppercase">About Humia</h2>
                     <a href="#">about us</a>
-                    <a href="#">about us</a>
-                    <a href="#">about us</a>
-                    <a href="#">about us</a>
-                    <a href="#">about us</a>
-                    <a href="#">about us</a>
-                    <a href="#">about us</a>
-                    <a href="#">about us</a>
-                    <a href="#">about us</a>
-                    <a href="#">about us</a>
+                    <a href="#">Store credit Terns and Conditions</a>
+                    <a href="#">Returns and Refunds Policy</a>
+                    <a href="#">Humia careers</a>
+                    <a href="#">Humia express</a>
+                    <a href="#">Terms and Conditions </a>
+                    <a href="#">Privacy Notice</a>
+                    <a href="#">Cookie Notice</a>
+                    <a href="#">Flash sales </a>
+                    <a href="#">Humia global</a>
                 </div>
                 <div className="flex flex-col">
                     <h2 className="mb-4 uppercase">Make money with jumia</h2>
-                    <a href="#">about us</a>
-                    <a href="#">about us</a>
-                    <a href="#">about us</a>
-                    <a href="#">about us</a>
+                    <a href="#">sell on humia</a>
+                    <a href="#">Vendor hub</a>
+                    <a href="#">Become sales consultant</a>
+                    <a href="#">Humia city partner program</a>
                    
                 </div>
                 <div className="flex flex-col">
@@ -72,19 +84,95 @@ const Footer = () => {
 
                 </div>
             </div>
-            <div className="flex flex-row justify-start gap-7">
-                <div className="flex flex-col">
+            <div className="flex flex-row justify-center p-4 gap-7">
+                <div className="flex flex-col mb-4">
                     <h2 className="">JOIN US ON</h2>
-                    <div className="flex flex-row gap-4">
+                    <div className="flex flex-row  gap-2">
                     <FaFacebook />
-                    <BiLogoInstagramAlt />
+                    <FaInstagram />
+                    <FaTwitter />
+                    <FaLinkedin />
+                    <FaYoutube />
+                    <FaTiktok />
+                </div>
 
-                        </div>
+                </div>
+                <div className="flex flex-col mb-4">
+                    <h2 className="">PAYMENT METHODS</h2>
+                    <div className="flex flex-row gap-2">
+                    <FaCcMastercard />
+                    <FaCcVisa />
+                    <FaCcPaypal />
+                    
+                </div>
 
                 </div>
 
             </div>
+            <div className="flex flex-row bg-inherit justify-evenly">
+                <div className="flex flex-col">
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                </div>
+                <div className="flex flex-col">
+                <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                </div>
+                <div className="flex flex-col">
+                <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                </div>
+                <div className="flex flex-col">
+                <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                </div>
+                <div className="flex flex-col">
+                <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                </div>
+                <div className="flex flex-col">
+                <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                </div>
+                <div className="flex flex-col">
+                <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                </div>
+                <div className="flex flex-col">
+                <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                    <a href="#">Items</a>
+                </div>
 
+            </div>
+            <hr className="w-full bg-white mt-6 mb-6" />
+            <div className="text-center">
+                <h2>HumiaPay</h2>
+            </div>
         </footer>
     )
 }
