@@ -121,9 +121,9 @@ const Footer = () => {
                 <div className="flex flex-col">
                 <a href="#">Adidas</a>
                     <a href="#">Nike</a>
-                    <a href="#">Xiaomi</a>
-                    <a href="#">Techno</a>
-                    <a href="#">Itel</a>
+                    <a href="#">Lacoste</a>
+                    <a href="#">Puma</a>
+                    <a href="#">Reebok</a>
                 </div>
                 <div className="flex flex-col">
                 <a href="#">Items</a>
